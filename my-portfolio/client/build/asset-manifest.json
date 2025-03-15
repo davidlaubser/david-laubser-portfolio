@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/david-laubser-portfolio/static/css/main.220b7936.css",
+    "main.js": "/david-laubser-portfolio/static/js/main.45370325.js",
+    "static/media/DavidLaubserCV.pdf": "/david-laubser-portfolio/static/media/DavidLaubserCV.658a14e75458790ab893.pdf",
+    "static/media/profile.jpg": "/david-laubser-portfolio/static/media/profile.d7dea1a8ad2a4c81d24a.jpg",
+    "static/media/itunes.jpg": "/david-laubser-portfolio/static/media/itunes.ffbdc556933bba3ebf23.jpg",
+    "static/media/apple-vault.jpg": "/david-laubser-portfolio/static/media/apple-vault.8e126b56467438f523c1.jpg",
+    "static/media/background.jpg": "/david-laubser-portfolio/static/media/background.d6c972583deb507f7eaa.jpg",
+    "static/media/car-inventory.jpg": "/david-laubser-portfolio/static/media/car-inventory.31c117aa13910e23a86d.jpg",
+    "static/media/to-do-list.jpg": "/david-laubser-portfolio/static/media/to-do-list.27003fb695625603fe01.jpg",
+    "static/media/weather-app.jpg": "/david-laubser-portfolio/static/media/weather-app.545c1835f06c4d864b00.jpg",
+    "index.html": "/david-laubser-portfolio/index.html",
+    "main.220b7936.css.map": "/david-laubser-portfolio/static/css/main.220b7936.css.map",
+    "main.45370325.js.map": "/david-laubser-portfolio/static/js/main.45370325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.220b7936.css",
+    "static/js/main.45370325.js"
+  ]
+}
