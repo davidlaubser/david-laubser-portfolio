@@ -32,7 +32,7 @@ const Contact = () => {
                 setStatus(`Error: ${data.error}`);
             }
         } catch (error) {
-            console.error(error);
+            console.error('Fetch error:', error);
             setStatus('Failed to send message. Try again.');
         }
     };
